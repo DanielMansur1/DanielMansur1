@@ -3,6 +3,7 @@
 - 🔭 Estudante Autodidata
 - 🌱 aprendendo 3° mundo de Python (Estruturas compostas/dados e rotina)
 - 😄 Pronouns: ele/dele
+- 💻 Projeto FuWax <a href="https://danielmansur1.github.io/Projeto-FuWax/">aqui</a> .
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
