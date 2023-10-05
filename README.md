@@ -1,5 +1,4 @@
 ## Olá! Me chamo Daniel Mansur
-<br>
 
 - 🔭 Estudante Autodidata
 - 🌱 aprendendo 3° mundo de Python (Estruturas compostas/dados e rotina)
