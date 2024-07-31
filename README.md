@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 Estudante Autodidata
-- 🌱 aprendendo 3° mundo de Python (Estruturas compostas/dados e rotina)
+- 🌱 aprendendo C# 
 - 😄 Pronouns: ele/dele
 - 💻 Projeto FuWax <a href="https://danielmansur1.github.io/Projeto-FuWax/">aqui</a> .
 
