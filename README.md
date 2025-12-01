@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 Estudante Autodidata
-- 🌱 aprendendo C# 
+- 🌱 aprendendo Engenharia de Dados
 - 😄 Pronouns: ele/dele
 - 💻 Projeto FuWax <a href="https://danielmansur1.github.io/Projeto-FuWax/">aqui</a> .
 
